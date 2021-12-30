@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7CDGHCbwn/0IVmkjJHg3P0BcOmEkKDr8NXSl2GeDnMJ32Rpz0CBM6setWUUOdReeopmNNSpPwg3XKmP9IQ0ckA==",
+  "success": true,
+  "projectFilePath": "D:\\Juarez\\estudo\\DIO\\SOLID\\SOLID-at-DIO-master\\Open-Closed-Principle\\2_Open-Closed-Principle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juarez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ECUzYCI6aRH/5C2D5OBz0bSo2iwEOo38c2Li0HOYFMpIJUR1I0L8JfS8eO2oXg2DU+qj040a+5NEGGg6jS4LIg==",
+  "success": true,
+  "projectFilePath": "D:\\Juarez\\estudo\\DIO\\SOLID\\SOLID-at-DIO-master\\4_Interface_Segregation_Principle\\4_Interface_Segregation_Principle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juarez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

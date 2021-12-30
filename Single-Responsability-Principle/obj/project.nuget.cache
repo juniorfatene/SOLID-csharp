@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7/lKz8J7KKzQ5pJDicmIeseiKYglvsrghv0GzwiZ+keb3K12wcD0J3xbp5/1K3Jbtlds8I2BWNpRCt9VB8rcQ==",
+  "success": true,
+  "projectFilePath": "D:\\Juarez\\estudo\\DIO\\SOLID\\SOLID-at-DIO-master\\Single-Responsability-Principle\\1_Single-Responsability-Principle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juarez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
